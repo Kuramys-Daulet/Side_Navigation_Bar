@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Side Navigation Bar</string>
+
+    <string name="OpenDrawer">Side Navigation Bar</string>
+    <string name="CloseDraer">Side Navigation Bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
