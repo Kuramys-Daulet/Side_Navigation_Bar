@@ -13,6 +13,6 @@
         android:layout_gravity="center"
         android:textStyle="bold"
         android:textSize="30sp"
-        android:text="Gallery Fragment" />
+        android:text="Галерея парақшасы" />
 
 </FrameLayout>

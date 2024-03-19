@@ -18,13 +18,13 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:text="xyzexampleemail@gmail.com"/>
+        android:text="kuramys.daulet@yandex.ru"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/black"
-        android:text="Coding For YOu"/>
+        android:text="Білімге апаратын жалғыз жол – белсенділік."/>
 
 
 

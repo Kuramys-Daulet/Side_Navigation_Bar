@@ -4,24 +4,24 @@
     <item
         android:id="@+id/home"
         android:icon="@drawable/baseline_home_24"
-        android:title="Home" />
+        android:title="Басты бет" />
 
     <item
         android:id="@+id/settings"
         android:icon="@drawable/baseline_settings_24"
-        android:title="Settings" />
+        android:title="Баптаулар" />
     <item
         android:id="@+id/gallery"
         android:icon="@drawable/gallery"
-        android:title="Gallery" />
+        android:title="Галерея" />
     <item
         android:id="@+id/finger"
         android:icon="@drawable/baseline_fingerprint_24"
-        android:title="FingerPrint" />
+        android:title="Саусақ ізі" />
     <item
         android:id="@+id/logout"
         android:icon="@drawable/baseline_login_24"
-        android:title="LogOut" />
+        android:title="Шығу" />
 
 
 </menu>
